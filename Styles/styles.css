@@ -10,3 +10,9 @@ h2 {
 body {
   background-color: rgb(210, 229, 235);
 }
+footer {
+  text-align: center;
+}
+a {
+  margin: 10px 10px;
+}
